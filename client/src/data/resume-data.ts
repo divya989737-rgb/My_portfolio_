@@ -153,13 +153,13 @@ export const resumeData = {
 }
 ,
     {
-      title: "ContextSwap Desktop App",
+      title: "Templaunch Desktop App",
       description: "AI-powered context-aware desktop application for seamless open all websites and local apps in one click. And friendly for User and guest",
       image: "https://res.cloudinary.com/djtq2eywl/image/upload/v1753504471/Screenshot_1107_imxrn7.png",
       imageAlt: "Modern development setup with AI/ML focus",
       techStack: [ "n8n", "React.js", "Node.js"],
       impact: ["Reduce context switching time by 50%"],
-      liveDemo: "https://contextswap-8lun.onrender.com/" 
+      liveDemo: "https://templaunch.vercel.app/"
     },
     {
   title: "InstaGen Mobile App",
