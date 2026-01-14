@@ -27,7 +27,7 @@ export default function About() {
             viewport={{ once: true }}
           >
             <img
-              src="https://res.cloudinary.com/djtq2eywl/image/upload/v1755679897/240d7r_hne4cd.jpg"
+              src="https://res.cloudinary.com/djtq2eywl/image/upload/v1768390694/WhatsApp_Image_2026-01-14_at_5.05.14_PM_sw4bas.jpg"
               alt="Modern tech setup"
               className="rounded-lg shadow-lg w-full h-auto border border-gray-200 dark:border-gray-700"
             />
@@ -41,9 +41,8 @@ export default function About() {
           >
             <h3 className="text-2xl font-bold text-black dark:text-white mb-6">My Journey</h3>
             <p className="text-gray-350 dark:text-gray-400 mb-6 leading-relaxed">
-              Currently pursuing Computer Science & Engineering at Rajkiya Engineering College Kannauj (AKTU) 
-              with a CGPA of 7.8. I have a strong foundation in both theoretical concepts and practical application, 
-              having completed a Diploma in Mechanical Engineering before transitioning to Computer Science.
+              Currently pursuing Bachelor of computer Application at Dr.B.R. Ambedkar University.Agra
+              with a CGPA of 7.8. 
             </p>
             <p className="text-gray-350 dark:text-gray-400 mb-6 leading-relaxed">
               My passion lies in creating innovative solutions that bridge the gap between traditional business 

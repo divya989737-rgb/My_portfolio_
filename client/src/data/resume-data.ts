@@ -1,14 +1,14 @@
 export const resumeData = {
   personalInfo: {
-    name: "Jay Prakash",
+    name: "Divya",
     title: "Full Stack Developer & AI Enthusiast",
     summary: "Passionate Computer Science student specializing in web development, AI integration, and automation workflows. Open to internships and entry-level opportunities.",
-    phone: "+91 6395857663",
-    email: "jayrana0909@gmail.com",
+    phone: "+91 9627805020",
+    email: "divya989737@gmail.com",
     links: {
-      github: "https://github.com/JaYRaNa213",
-      linkedin: "https://www.linkedin.com/in/jay-prakash-367538313",
-      leetcode: "https://leetcode.com/u/JayRana/",
+      github: "https://github.com/divya989737-rgb",
+      linkedin: "https://www.linkedin.com/in/divya-rana-758047382",
+      leetcode: "https://leetcode.com/u/divya-rana/",
       portfolio: "https://jayrana213.github.io/portfolio.github.io/"
     }
   },
@@ -80,34 +80,31 @@ export const resumeData = {
   education: [
     {
       degree: "Computer Science & Engineering",
-      institution: "Rajkiya Engineering College Kannauj (AKTU)",
-      period: "Sep 2023 – July 2026",
-      grade: "CGPA: 7.8 • 4 Years Program",
+      institution: "Dr.B.R Ambedkar University",
+      period: "july 2024  – July 2027",
+      grade: "CGPA: 7.8 • 3 Years Program",
       dotColor: "bg-black dark:bg-white",
       gradeColor: "text-black dark:text-white"
     },
-    {
-      degree: "Diploma in Mechanical Engineering",
-      institution: "B S A College of Engineering & Technology Mathura",
-      period: "2023",
-      grade: "76%",
-      dotColor: "bg-gray-600 dark:bg-gray-400",
-      gradeColor: "text-gray-600 dark:text-gray-400"
-    },
-    {
-      degree: "12th (Higher Secondary)",
-      period: "2020",
-      grade: "80%",
-      dotColor: "bg-gray-600 dark:bg-gray-400",
-      gradeColor: "text-gray-600 dark:text-gray-400"
-    },
+
     {
       degree: "10th (High School)",
-      period: "2018",
-      grade: "80%",
+      period: "2022",
+      grade: "81.5%",
+      dotColor: "bg-gray-600 dark:bg-gray-400",
+      gradeColor: "text-gray-600 dark:text-gray-400"
+    },
+
+        {
+      degree: "12th ( Intermediate)",
+      period: "2024",
+      grade: "84%",
       dotColor: "bg-gray-600 dark:bg-gray-400",
       gradeColor: "text-gray-600 dark:text-gray-400"
     }
+    
+      
+    
   ],
 
   projects: [

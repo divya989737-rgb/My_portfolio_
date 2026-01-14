@@ -56,7 +56,7 @@ export default function Navigation() {
     <nav className="fixed top-0 w-full bg-white/95 dark:bg-black/95 backdrop-blur-sm shadow-sm border-b border-gray-200 dark:border-gray-800 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
-          <div className="text-xl font-bold text-black dark:text-white">Jay Prakash</div>
+          <div className="text-xl font-bold text-black dark:text-white">Divya</div>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">
